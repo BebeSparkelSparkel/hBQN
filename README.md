@@ -11,6 +11,12 @@ I found
 - an old mail thread about this [https://www.mail-archive.com/haskell-cafe@haskell.org/msg107983.html]
 - Simon Peyton Jones made a wiki with a prototype implementation https://wiki.haskell.org/APL
 
+## Questions that Need Answering
+
+How does one reference external haskell variables?
+
+Is it possible to use polymorphism to allow type checking? Or, is BQN to dynamically typed to allow for this?
+
 ## Contribute
 
 Let me know and I'll add you as a contributer.
