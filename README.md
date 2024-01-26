@@ -7,7 +7,8 @@ I was just watching [Functional vs Array Programming](https://www.youtube.com/wa
 
 [APL](https://www.gnu.org/software/apl/) or the newer [BQN](https://mlochbaum.github.io/BQN/) seem perfect for a QuasiQuotes DSL.
 
-I found
+## References
+- Madeline Vergani has an APL interpreter written in haskell https://github.com/RubenVerg/tinyapl that has the base haskell data types and functions defined but not a parser for APL itself.
 - an old mail thread about this [https://www.mail-archive.com/haskell-cafe@haskell.org/msg107983.html]
 - Simon Peyton Jones made a wiki with a prototype implementation https://wiki.haskell.org/APL
 
